@@ -1,0 +1,3 @@
+﻿  Manager.cpp
+c:\users\ferna\source\repos\tic-tac-toe\tic-tac-toe\manager.cpp(12): warning C4930: 'sf::RenderWindow window(void)': no se ha llamado a la función prototipo (¿se pensó una definición de variable?)
+  Tic-Tac-Toe.vcxproj -> C:\Users\ferna\source\repos\Tic-Tac-Toe\Debug\Tic-Tac-Toe.exe
